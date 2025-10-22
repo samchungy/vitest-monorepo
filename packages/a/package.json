@@ -5,7 +5,7 @@
   "exports": {
     ".": {
       "my-repo": "./src/index.ts",
-      "default": "./src/index.ts"
+      "default": "./lib/index.mjs"
     },
     "./package.json": "./package.json"
   },
