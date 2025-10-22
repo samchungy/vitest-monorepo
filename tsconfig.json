@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node16",
+    "module": "node20",
+    "customConditions": ["my-repo"],
+    "rootDir": "."
+  }
+}
